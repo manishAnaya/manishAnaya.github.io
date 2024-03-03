@@ -88041,7 +88041,7 @@ $0(){return A.vu(A.f4("https://wa.me/7007033600?text=",0,null))},
 $S:0}
 A.rS.prototype={
 I(a){var s,r,q=null,p=t.l
-if(!(A.aw(a,q,p).w.a.a>=1130)){s=A.bm("Manish Agrahari",q,q,q,$.lA(),q,q)
+if(!(A.aw(a,q,p).w.a.a>=1130)){s=A.bm("Manish Kr. Agrahari",q,q,q,$.lA(),q,q)
 s=new A.vX(s,B.Mf,new A.Z_(q,q,1/0,56),q)}else s=q
 r=A.a([],t.p)
 if(A.aw(a,q,p).w.a.a>=1130)r.push(B.Lo)
@@ -88080,7 +88080,7 @@ return A.ci(q,A.dO(A.a([o,B.bU,m,B.bU,s,B.bU,r,B.bU,n,B.bU,A.bm("- Collaborated 
 Rg(a){var s,r,q=null,p=t.l,o=A.bm("Junior Flutter Developer",q,q,q,A.aw(a,q,p).w.a.a<=927?$.qs():$.aty(),q,q),n=$.qs(),m=A.bm("iBigDo Technologies",q,q,q,n,q,q)
 if(A.aw(a,q,p).w.a.a<=927)s=$.lB()
 else s=A.aw(a,q,p).w.a.a<=700?$.qu():$.lA()
-s=A.bm("12/2018 - 05/2022, Obra, Sonbhadra",q,q,q,s,q,q)
+s=A.bm("12/2018 - 05/2022, Noida, India",q,q,q,s,q,q)
 if(A.aw(a,q,p).w.a.a<=927)r=$.lB()
 else r=A.aw(a,q,p).w.a.a<=700?$.qu():$.lA()
 r=A.bm("IBigDo Technologies has proudly delivered five years of exceptional service, specializing in crafting tailored mobility solutions, including branding, logo design, packaging, catalogue design, and outdoor branding.",q,q,q,r,q,q)
